@@ -1,4 +1,4 @@
-# start-here
+# Start-here
 This is a collection of documentation, helpful for new developers and new projects
 
 ## For a New Developer 
@@ -15,4 +15,11 @@ Each team member makes a issue, using the template.
 The template is a series of questions, everyone is encouraged to update it as the project goes on. 
 
 Read each others to faccilitate communication.
+### The template folder covers common processes followed in each project. 
+If the project repo you will be working on hasn't been created, this is where we will draw our documentation from.
+
+### The workshop folder contains the workshops we do with the product owners
+
+### The documetation folder contains documentation that is sent to the product owner
+
 
