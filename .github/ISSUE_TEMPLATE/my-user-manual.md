@@ -2,8 +2,8 @@
 name: My User Manual
 about: This is an attempt to make working together as successful and enjoyable as
   possible.
-title: ''
-labels: documentation
+title: "@Githubhandle Name "
+labels: User Manual, documentation
 assignees: ''
 
 ---
