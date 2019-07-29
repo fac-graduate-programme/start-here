@@ -4,14 +4,8 @@
 
 Our single source of truth will be in github projects.
 
-We will have daily standup online at a agreed time and also log them in the issue called standup log
-
-Trail the use of ![](https://i.imgur.com/nKa3ZP6.png)
-
-https://github.com/marketplace/zenhub
- 
- To have a automated burndown chart 
- ![](https://i.imgur.com/MG1JKpq.png)
+We will have daily standup log online in a issue. 
+Also remate calls twice a week at least but more if needed.
 
 Four roles:
 - Scrum master
