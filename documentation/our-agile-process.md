@@ -4,7 +4,7 @@
 
 Our single source of truth will be in github projects.
 
-We will have daily standup log online in a issue. 
+We will have daily standup log, that is an online issue in the project repo. 
 Also remate calls twice a week at least but more if needed.
 
 Four roles:
