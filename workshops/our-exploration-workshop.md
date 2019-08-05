@@ -92,6 +92,13 @@ Each team member sketches one idea in each rectangle
 When the timer goes off, put your pens down
 
 #### Sharing and Voting
+![](https://i.imgur.com/u5B0YPe.png)
+
+As a precursor to a Dot Vote, Heatmap Voting is a Design Sprint method to zero in on features or ideas the team considers impactful. 
+
+The intention is to create a heatmap on the sketches that shows which features the team as a whole thinks are worth prototyping. This is generally followed by a discussion of the features and then a round of prioritization voting.
+
+Remind the team that they’re not voting for an entire Solution Sketch, but for features within the sketches
 
 Put up each sprinter’s sketches together one at a time so everyone can see them clearly
 
